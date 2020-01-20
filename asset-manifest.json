@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-goc/static/css/main.933cad75.chunk.css",
+    "main.js": "/react-goc/static/js/main.24ba0467.chunk.js",
+    "main.js.map": "/react-goc/static/js/main.24ba0467.chunk.js.map",
+    "runtime-main.js": "/react-goc/static/js/runtime-main.9ca056fc.js",
+    "runtime-main.js.map": "/react-goc/static/js/runtime-main.9ca056fc.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/react-goc/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.1dab0904.chunk.js": "/react-goc/static/js/2.1dab0904.chunk.js",
+    "static/js/2.1dab0904.chunk.js.map": "/react-goc/static/js/2.1dab0904.chunk.js.map",
+    "index.html": "/react-goc/index.html",
+    "precache-manifest.b7023fccb11ff7a21f3e0bc74e6f12f8.js": "/react-goc/precache-manifest.b7023fccb11ff7a21f3e0bc74e6f12f8.js",
+    "service-worker.js": "/react-goc/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/react-goc/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.933cad75.chunk.css.map": "/react-goc/static/css/main.933cad75.chunk.css.map",
+    "static/js/2.1dab0904.chunk.js.LICENSE": "/react-goc/static/js/2.1dab0904.chunk.js.LICENSE",
+    "static/media/accounting.png": "/react-goc/static/media/accounting.fe9995e3.png",
+    "static/media/hel.jpg": "/react-goc/static/media/hel.86299ca8.jpg",
+    "static/media/pg.png": "/react-goc/static/media/pg.55b08045.png",
+    "static/media/picture.jpg": "/react-goc/static/media/picture.dcab4200.jpg",
+    "static/media/safety.jpeg": "/react-goc/static/media/safety.630d92b7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ca056fc.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.1dab0904.chunk.js",
+    "static/css/main.933cad75.chunk.css",
+    "static/js/main.24ba0467.chunk.js"
+  ]
+}
